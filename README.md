@@ -5,3 +5,4 @@
 - [x] Álbuns
 - [x] Músicas
 - [x] Player
+- [x] Comming soon
