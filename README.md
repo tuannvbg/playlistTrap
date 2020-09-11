@@ -1,6 +1,6 @@
 # playlistTrap
 
-## Playlist simples ultilizando o APlayer
+## Playlist simples usando o APlayer
 
 - [x] Álbuns
 - [x] Músicas
